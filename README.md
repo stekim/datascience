@@ -1,2 +1,2 @@
 # datascience
-data science projects for fun and learning
+This is my github repository for data science projects, mostly for my personal fun and learning. 
